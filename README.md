@@ -39,26 +39,6 @@ The **Email Classification System** is an NLP-based machine learning application
 * Model Evaluation
 * Accuracy Score
 * Confusion Matrix
-## **Installation**
-
-### Clone the Repository
-
-bash
-git clone https://github.com/your-username/Email-Classification-System.git
-
-### Navigate to the Project Folder
-bash
-cd Email-Classification-System
-
-### Install Required Dependencies
-
-bash
-pip install -r requirements.txt
-
-### Run the Application
-
-bash
-python app.py
 
 ## **Applications**
 
